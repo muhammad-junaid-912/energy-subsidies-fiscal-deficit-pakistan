@@ -1,0 +1,13 @@
+energy-subsidies-fiscal-deficit-pakistan/
+│
+├── data/
+│   └── sample_data.xlsx
+│
+├── stata/
+│   └── analysis.do
+│
+├── outputs/
+│   ├── tables/
+│   └── figures/
+│
+└── README.md
